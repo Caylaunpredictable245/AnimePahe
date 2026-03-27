@@ -1,12 +1,8 @@
-# ╔══════════════════════════════════════════════╗
+# ╔══════════════════════════════════════════╗
 
-# ║        AUTO ANIME PAHE — ADVANCED BOT        ║
+# ║      AUTO ANIME PAHE — ADVANCED BOT      ║
 
-# ╚══════════════════════════════════════════════╝
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-</p>
+# ╚══════════════════════════════════════════╝
 
 <p align="center">
   <b>FAST • SCALABLE • AUTOMATED • CLOUD READY</b>
